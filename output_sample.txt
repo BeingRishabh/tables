@@ -1,0 +1,20 @@
+Winning Rules of the Rock paper scissor game as follows: 
+Rock vs paper->paper wins 
+Rock vs scissor->Rock wins 
+paper vs scissor->scissor wins 
+
+Enter choice 
+ 1. Rock 
+ 2. paper 
+ 3. scissor 
+
+User turn: 1
+user choice is: Rock
+
+Now its computer turn.......
+Computer choice is: scissor
+Rock V/s scissor
+Rock wins =><== User wins ==>
+user score 1
+the score is  1 :: 0
+Do you want to play again? (Y/N)
